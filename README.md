@@ -32,7 +32,7 @@ This repository contains a complete login page design system including:
 **[→ View Live Figma Design][https://www.figma.com/design/Ndmx8AQLbkysPW6xYUVRcH/Login-Page?node-id=2-13&t=eC66Pb4bW4Mltnda-1]**
 
 ## 🎯 Design Specifications
-
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/Ndmx8AQLbkysPW6xYUVRcH/Login-Page?node-id=2-13&embed-host=share" allowfullscreen></iframe>
 
 ## 🚀 Implementation Notes
 
