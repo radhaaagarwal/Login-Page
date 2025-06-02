@@ -29,7 +29,7 @@ This repository contains a complete login page design system including:
 
 ## 🔗 Figma File
 
-**[→ View Live Figma Design](https://figma.com/file/your-file-id](https://www.figma.com/design/Ndmx8AQLbkysPW6xYUVRcH/Login-Page?node-id=2-13&t=eC66Pb4bW4Mltnda-1))**
+**[→ View Live Figma Design](https://figma.com/file/your-file-id](https://www.figma.com/design/Ndmx8AQLbkysPW6xYUVRcH/Login-Page?node-id=2-13&t=eC66Pb4bW4Mltnda-1)**
 
 ## 🎯 Design Specifications
 
